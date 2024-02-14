@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dharmenderchoudhary022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17hTUTb4FCREH5DkakABDNn3aQabNpZB9/view?usp=drive_link](https://drive.google.com/file/d/17hTUTb4FCREH5DkakABDNn3aQabNpZB9/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17hTUTb4FCREH5DkakABDNn3aQabNpZB9/view?usp=drive_link]()
 
 - ⚡📊 Data sorcerer **"Why did the data scientist bring a ladder to the data center? Because they heard the data was on a higher level!" 🧙‍♂️📈**
 
